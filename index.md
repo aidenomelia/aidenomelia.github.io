@@ -1,4 +1,4 @@
-./ Aiden O'melia's Portfolio of Cybersecurity Projects
+
 ---
 layout: default
 ---
@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Aiden O'melia's Portfolio of Cybersecurity Projects
+# introduction
 
 Good afternoon, good morning, and good night. Im a passionate and detail-oriented aspiring cybersecurity professional with a strong foundation in network security, risk managment, and threat analysis. Currently completing the Google Cybersecurity profeesional Certificate and preparing for the CompTIA Security+ exam, im commited to continuous learning and hands-on experience. This portfolio highlights the projects, skills, and training ive built so far as I work toward landing my first role in the cybersecurity field. im excited to bring curiosity, integrity, and a problem-solving mindset to a team focused on protecting digital assets.
 
