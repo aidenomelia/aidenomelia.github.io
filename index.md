@@ -42,7 +42,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Vulnerablilty Assesment
+### Vulnerablilty Assesment
 
 This is a mock vulnerablity assement I completed as part of my Google Cybersecurity Certifaction course. it demonstrates the process of indentifying an organization's weaknesses, classifying vulnerabilities, and prioritizing them based on severity.
 
