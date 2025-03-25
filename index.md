@@ -2,21 +2,15 @@
 
 [Visit my linkedIn](https://www.linkedin.com/in/aiden-omelia-921819232/).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # introduction
 
 Good afternoon, good morning, and good night. Im a passionate and detail-oriented aspiring cybersecurity professional with a strong foundation in network security, risk managment, and threat analysis. Currently completing the Google Cybersecurity profeesional Certificate and preparing for the CompTIA Security+ exam, im commited to continuous learning and hands-on experience. This portfolio highlights the projects, skills, and training ive built so far as I work toward landing my first role in the cybersecurity field. im excited to bring curiosity, integrity, and a problem-solving mindset to a team focused on protecting digital assets.
 
-## Header 2
+## Security Operations Center
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+.
 
-### Header 3
+### Bug Bounty recon automation
 
 ```js
 // Javascript code with syntax highlighting.
@@ -45,14 +39,12 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Vulnerablilty Assesment
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+This is a mock vulnerablity assement I completed as part of my Google Cybersecurity Certifaction course. it demonstrates the process of indentifying an organization's weaknesses, classifying vulnerabilities, and prioritizing them based on severity.
+
+[View the full vulnerability assessment report.pdf](https://github.com/user-attachments/files/19446388/Vulnerability.assessment.report.pdf)
+
 
 ### There's a horizontal rule below this.
 
