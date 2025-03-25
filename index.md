@@ -11,6 +11,9 @@ Good afternoon, good morning, and good night. Im a passionate and detail-oriente
 
 [Screenshot 2025-03-25 081024](https://github.com/user-attachments/assets/d318579f-fca2-41ec-9b74-cb54c1e2ea1d)
 
+
+![Screenshot 2025-03-25 085126](https://github.com/user-attachments/assets/c847ed4e-797c-4dee-bc7e-f27918c661ed)
+
 .
 
 ### Bug Bounty recon automation
