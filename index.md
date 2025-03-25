@@ -6,7 +6,10 @@
 
 Good afternoon, good morning, and good night. Im a passionate and detail-oriented aspiring cybersecurity professional with a strong foundation in network security, risk managment, and threat analysis. Currently completing the Google Cybersecurity profeesional Certificate and preparing for the CompTIA Security+ exam, im commited to continuous learning and hands-on experience. This portfolio highlights the projects, skills, and training ive built so far as I work toward landing my first role in the cybersecurity field. im excited to bring curiosity, integrity, and a problem-solving mindset to a team focused on protecting digital assets.
 
+
 ## Security Operations Center
+
+![Screenshot 2025-03-25 081024](https://github.com/user-attachments/assets/d318579f-fca2-41ec-9b74-cb54c1e2ea1d)
 
 .
 
